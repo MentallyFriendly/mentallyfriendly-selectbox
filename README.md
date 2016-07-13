@@ -8,7 +8,7 @@ This [Polymer](http://www.polymer-project.org/) [web component](https://www.w3.o
 
 Navigating a paper-dropdown-menu with a large number of options can be difficult on small-screen devices, by taking advantage of the native UI we can improve usability for the end-user.
 
-#### Usage
+### Usage
 
 1. Import Custom Element:
   ```html
@@ -22,17 +22,17 @@ Navigating a paper-dropdown-menu with a large number of options can be difficult
   ></mentallyfriendly-selectbox>
   ```
 
-#### Contributing
+## Contributing
 
 Mentally Friendly loves contributions from the community!
 
-##### Filing Bugs
+### Filing Bugs
 
 If you find an issue, please do file it on the repository.
 
 We love examples for addressing issues - issues with a Plunkr, jsFiddle, or jsBin will be much easier for us to work on quickly. You can start with [this jsbin](https://jsbin.com/xukike/edit?html,output) which sets up the basics to demonstrate a Polymer element.
 
-##### Contributing Pull Requests
+### Contributing Pull Requests
 
 PR's are even better than issues. We gladly accept community pull requests. In general there are a few necessary steps before we can accept a pull request:
 
@@ -45,7 +45,7 @@ PR's are even better than issues. We gladly accept community pull requests. In g
 
 If you've completed all of these steps the core team will do its best to respond to the PR as soon as possible.
 
-#### Communicating with the Mentally Friendly team
+## Communicating with the Mentally Friendly team
 
 Beyond Github, we try to have a variety of different lines of communication available:
 
@@ -55,6 +55,6 @@ Beyond Github, we try to have a variety of different lines of communication avai
 - [Instagram](https://www.instagram.com/mentallyfriendly)
 - [Twitter](https://twitter.com/MF_says)
 
-#### License
+## License
 
 mentallyfriendly-selectbox uses a BSD license available [here](LICENSE.txt)
