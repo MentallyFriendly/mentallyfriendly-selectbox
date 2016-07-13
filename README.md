@@ -10,11 +10,12 @@ Navigating a paper-dropdown-menu with a large number of options can be difficult
 
 ### Usage
 
-1. Import Custom Element:
+Import mentallyfriendly-selectbox:
 ```html
 <link rel="import" href="mentallyfriendly-selectbox/mentallyfriendly-selectbox.html">
 ```
-2. Start using it!
+
+Start using it!
 ```html
 <mentallyfriendly-selectbox
   label="You can all be my..."
