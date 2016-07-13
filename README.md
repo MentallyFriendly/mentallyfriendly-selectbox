@@ -10,6 +10,11 @@ Navigating a paper-dropdown-menu with a large number of options can be difficult
 
 ### Usage
 
+Install via Bower:
+```sh
+bower i MentallyFriendly/mentallyfriendly-selectbox -S
+```
+
 Import mentallyfriendly-selectbox:
 ```html
 <link rel="import" href="mentallyfriendly-selectbox/mentallyfriendly-selectbox.html">
@@ -22,6 +27,15 @@ Start using it!
   values='["Friends","Draugas","Amigos","朋友","Vän","Freund","ともだち","Ami"]'
 ></mentallyfriendly-selectbox>
 ```
+
+### Options
+
+Attribute  | Type     | Default  | Description
+---        | ---      | ---      | ---
+`label`    | String   | None     | Label for the selectbox
+`values`   | Array    | None     | All values/options that can be selected
+`selected` | Array    | `[]`     | All values/options that are selected
+`multi`    | Boolean  | `false`  | Can multiple values/options be selected
 
 ## Contributing
 
