@@ -41,7 +41,7 @@ PR's are even better than issues. We gladly accept community pull requests. In g
 - Fork the repo you're making the fix on to your own Github account.
 - Code!
 - Include tests that test the range of behavior that changes with your PR. If you PR fixes a bug, make sure your tests capture that bug. If your PR adds new behavior, make sure that behavior is fully tested. Every PR must include associated tests.
-- Submit your PR, making sure it references the issue you created.
+- Submit your PR, making sure it references the issue you opened.
 - If your PR fixes a bug, make sure the issue includes clear steps to reproduce the bug so we can test your fix.
 
 If you've completed all of these steps the core team will do its best to respond to the PR as soon as possible.
