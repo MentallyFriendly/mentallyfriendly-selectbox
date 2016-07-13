@@ -11,16 +11,16 @@ Navigating a paper-dropdown-menu with a large number of options can be difficult
 ### Usage
 
 1. Import Custom Element:
-  ```html
-  <link rel="import" href="mentallyfriendly-selectbox/mentallyfriendly-selectbox.html">
-  ```
+```html
+<link rel="import" href="mentallyfriendly-selectbox/mentallyfriendly-selectbox.html">
+```
 2. Start using it!
-  ```html
-  <mentallyfriendly-selectbox
-      label="You can all be my..."
-      values='["Friends","Draugas","Amigos","朋友","Vän","Freund","ともだち","Ami"]'
-  ></mentallyfriendly-selectbox>
-  ```
+```html
+<mentallyfriendly-selectbox
+  label="You can all be my..."
+  values='["Friends","Draugas","Amigos","朋友","Vän","Freund","ともだち","Ami"]'
+></mentallyfriendly-selectbox>
+```
 
 ## Contributing
 
