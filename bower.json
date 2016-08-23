@@ -1,6 +1,6 @@
 {
   "name": "mentallyfriendly-selectbox",
-  "description": "A Polymer web component that works like a paper-dropdown-menu on desktop browsers but switches to the native OS select element UI on mobile devices",
+  "description": "A Polymer component that works like paper-dropdown-menu on desktop but uses the native OS select element UI on mobile",
   "main": "mentallyfriendly-selectbox.html",
   "authors": [
     {
