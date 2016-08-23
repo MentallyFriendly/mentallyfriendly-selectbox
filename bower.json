@@ -1,7 +1,32 @@
 {
   "name": "mentallyfriendly-selectbox",
-  "description": "A selectbox for Polymer",
+  "description": "A Polymer web component that works like a paper-dropdown-menu on desktop browsers but switches to the native OS select element UI on mobile devices",
   "main": "mentallyfriendly-selectbox.html",
+  "authors": [
+    {
+      "name": "Mentally Friendly",
+      "homepage": "http://mentallyfriendly.com"
+    },
+    {
+      "name": "Liam Fiddler",
+      "homepage": "http://liamfiddler.com"
+    }
+  ],
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "paper-dropdown-menu",
+    "selectbox",
+    "select",
+    "native",
+    "mobile",
+    "ui",
+    "interface",
+    "option"
+  ],
+  "license": "https://raw.githubusercontent.com/MentallyFriendly/mentallyfriendly-selectbox/master/LICENSE.txt",
+  "homepage": "https://github.com/MentallyFriendly/mentallyfriendly-selectbox",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
     "paper-dropdown-menu": "^1.3.1",
