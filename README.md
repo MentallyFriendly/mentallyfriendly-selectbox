@@ -1,6 +1,6 @@
 # \<mentallyfriendly-selectbox\>
 
-![Example of mentallyfriendly-selectbox on different devices](mentallyfriendly-selectbox.png)
+![Example of mentallyfriendly-selectbox on different devices](https://raw.githubusercontent.com/MentallyFriendly/mentallyfriendly-selectbox/master/mentallyfriendly-selectbox.png)
 
 ## A Polymer selectbox with native UI on mobile
 
